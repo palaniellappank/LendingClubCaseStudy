@@ -1,6 +1,10 @@
 # Project Name
 Lending Club Case Study
 
+## Team Members
+* PALANI ELLAPPAN
+* PABAN DAS
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -29,6 +33,4 @@ Refer Upgrade sessions on Exploratory Data analysis
 Refer Pre Case Study live session from Upgrade
 
 ## Contact
-Team Members :* PALANI ELLAPPAN
-              * PABAN DAS
 Created by palaniellappank - https://github.com/palaniellappank/LendingClubCaseStudy - feel free to contact me!
