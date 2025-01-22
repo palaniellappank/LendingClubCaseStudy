@@ -29,4 +29,6 @@ Refer Upgrade sessions on Exploratory Data analysis
 Refer Pre Case Study live session from Upgrade
 
 ## Contact
+Team Members : PALANI ELLAPPAN
+               PABAN DAS
 Created by palaniellappank - https://github.com/palaniellappank/LendingClubCaseStudy - feel free to contact me!
